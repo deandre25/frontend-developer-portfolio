@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/frontend-developer-portfolio/static/css/main.4b75e5bb.css",
-    "main.js": "/frontend-developer-portfolio/static/js/main.8617eddb.js",
+    "main.js": "/frontend-developer-portfolio/static/js/main.3f862afb.js",
     "static/media/04-big.jpg": "/frontend-developer-portfolio/static/media/04-big.9dc8caf822c4a4116af4.jpg",
     "static/media/01-big.jpg": "/frontend-developer-portfolio/static/media/01-big.ecb03349664096d93b17.jpg",
     "static/media/03-big.jpg": "/frontend-developer-portfolio/static/media/03-big.42d4e6c6843189e73fd2.jpg",
@@ -24,10 +24,10 @@
     "static/media/linkedIn.svg": "/frontend-developer-portfolio/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
     "index.html": "/frontend-developer-portfolio/index.html",
     "main.4b75e5bb.css.map": "/frontend-developer-portfolio/static/css/main.4b75e5bb.css.map",
-    "main.8617eddb.js.map": "/frontend-developer-portfolio/static/js/main.8617eddb.js.map"
+    "main.3f862afb.js.map": "/frontend-developer-portfolio/static/js/main.3f862afb.js.map"
   },
   "entrypoints": [
     "static/css/main.4b75e5bb.css",
-    "static/js/main.8617eddb.js"
+    "static/js/main.3f862afb.js"
   ]
 }
