@@ -21,7 +21,10 @@ const ProjectPage = () => {
           </div>
 
           {project.gitHubLink && (
-            <ButtonGitHub link='https://github.com' />
+            <div className="project-details__link">
+              <ButtonGitHub title={'GitHub repo'} link={project.gitHubLink} />
+              <ButtonGitHub title={'DEMO LINK'} link={project.gitHubDemoLink} />
+            </div>
           )}
         </div>
       </div>

@@ -13,8 +13,7 @@ const Home = () => {
                 Frontend
               </h2>
               <p>
-                JavaScript, TypeScript, ReactJS, Angular, Redux, HTML, CSS, NPM, BootStrap, MaterialUI, Yarn, TailwindCSS,
-                StyledComponents
+                JavaScript, TypeScript, ReactJS, Redux, HTML5, CSS3, Sass(SCSS), BEM, Bootstrap, Bulma, Material UI
               </p>
             </li>
 
@@ -23,7 +22,7 @@ const Home = () => {
                 Backend
               </h2>
               <p>
-                NodeJS, MySQL, MongoDB, PHP, Laravel
+                NodeJS, MySQL, Fetch, REST API
               </p>
             </li>
           </ul>
