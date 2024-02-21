@@ -1,6 +1,6 @@
 const DownloadCVButton = () => {
   const downloadPDF = () => {
-    window.open('/CV_Andrii_Deineka_Frontend_Developer.pdf', '_blank');
+    window.location.href = '/CV_Andrii_Deineka_Frontend_Developer.pdf';
   };
 
   return (
