@@ -1,5 +1,5 @@
 import instagram from '../../img/icons/instagram.svg';
-import twitter from '../../img/icons/twitter.svg';
+import telegram from '../../img/icons/telegram.svg';
 import gitHub from '../../img/icons/gitHub.svg';
 import linkedIn from '../../img/icons/linkedIn.svg';
 
@@ -12,22 +12,22 @@ const Footer = () => {
         <div className="footer__wrapper">
           <ul className="social">
             <li className="social__item">
-              <a href="#!">
+              <a href="https://www.instagram.com/de.andre_25/">
                 <img src={instagram} alt="Link" />
               </a>
             </li>
             <li className="social__item">
-              <a href="#!">
-                <img src={twitter} alt="Link" />
+              <a href="https://t.me/de_andre_25">
+                <img src={telegram} alt="Link" />
               </a>
             </li>
             <li className="social__item">
-              <a href="#!">
+              <a href="https://github.com/deandre25">
                 <img src={gitHub} alt="Link" />
               </a>
             </li>
             <li className="social__item">
-              <a href="#!">
+              <a href="https://www.linkedin.com/in/andrii-deineka/">
                 <img src={linkedIn} alt="Link" />
               </a>
             </li>

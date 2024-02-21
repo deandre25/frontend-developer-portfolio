@@ -33,8 +33,8 @@ const Contacts = () => {
               Email
             </h2>
             <p>
-              <a href="mailto:deyneka2003@gmail.com">
-                deyneka2003@gmail.com
+              <a href="mailto:andrii.deineka.fe@gmail.com">
+                andrii.deineka.fe@gmail.com
               </a>
             </p>
           </li>

@@ -1,3 +1,4 @@
+import DownloadCVButton from '../DownloadCVButton/DownloadCVButton';
 import './style.css';
 
 const Header = () => {
@@ -11,7 +12,7 @@ const Header = () => {
         <div className="header__text">
           <p>with passion for learning and creating.</p>
         </div>
-        <a href="!#" className="btn">Download CV</a>
+        <DownloadCVButton />
       </div>
     </header>
   );
