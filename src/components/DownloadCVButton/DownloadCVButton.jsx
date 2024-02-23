@@ -1,6 +1,6 @@
 const DownloadCVButton = () => {
   const downloadPDF = () => {
-    window.location.href = '/CV_Andrii_Deineka_Frontend_Developer.pdf';
+    window.open('https://drive.google.com/file/d/1TYD0Tuqt3Mhkw1tieubLwqWPFVN4zQ_5/view?usp=sharing', '_blank');
   };
 
   return (
